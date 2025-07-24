@@ -9,25 +9,25 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Huniverseh's website"
+title                    : # "Huniverseh's website"
 title_separator          : "-"
 name                     : &name "Yuhao Hu"
 description              : &description "personal description"
 url                      : "https://huniverseh.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : # "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : # "photo.png"
   name             : "Yuhao Hu"
   pronouns         : # "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "gogo"
   location         : "China"
-  employer         : "Soochow University"
+  employer         : "Southeast University"
   uri              : # URL
   email            : "2549702154@qq.com" 
 
